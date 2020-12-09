@@ -1,4 +1,4 @@
 # python-pdb
 python pdb
 
-<img src="demo.png"/>
+<img src="./demo.PNG"/>
